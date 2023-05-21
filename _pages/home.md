@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Addy's Group Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Addy Group Lab at BITS Pilani University."
 sitemap: false
 permalink: /
 ---
